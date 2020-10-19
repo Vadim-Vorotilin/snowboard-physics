@@ -4,8 +4,6 @@
 using System;
 using UnityEngine;
 
-// ReSharper disable InconsistentNaming
-
 namespace SnowboardPhysics.Core {
     internal class SnowboardPhysicsModel {
 
